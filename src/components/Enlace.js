@@ -31,6 +31,7 @@ export const Enlace = ({ url, texto, imagenUrl }) => {
         transition: "all 0.1s ease",
         cursor: "pointer",
         fontFamily:'monospace',
+        fontSize:'1rem'
       }}
     >
       <span>{texto}</span>
