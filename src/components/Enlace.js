@@ -30,6 +30,7 @@ export const Enlace = ({ url, texto, imagenUrl }) => {
         borderBottom: "5px solid #FEB801",
         transition: "all 0.1s ease",
         cursor: "pointer",
+        fontFamily:'monospace',
       }}
     >
       <span>{texto}</span>

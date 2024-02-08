@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.9f2b852d.css",
-    "main.js": "/static/js/main.dc98b96b.js",
+    "main.js": "/static/js/main.b9905aba.js",
     "static/js/592.648414bd.chunk.js": "/static/js/592.648414bd.chunk.js",
     "static/media/Lora-VariableFont_wght.ttf": "/static/media/Lora-VariableFont_wght.3a653a05dd1cd5925a30.ttf",
     "static/media/Merriweather-Regular.ttf": "/static/media/Merriweather-Regular.da67ca8c38ef44c4773d.ttf",
     "static/media/Merriweather-Light.ttf": "/static/media/Merriweather-Light.43706a2883eb57c79284.ttf",
     "static/media/logoYumiBlanco.png": "/static/media/logoYumiBlanco.a949518aecdc7cd45c2c.png",
+    "static/media/yumistackicon.png": "/static/media/yumistackicon.9933159ec54287dcceb8.png",
     "static/media/icons8-whatsapp (1).svg": "/static/media/icons8-whatsapp (1).60d1f292e7434d0f779256d30b259a3a.svg",
     "static/media/icons8-instagram.svg": "/static/media/icons8-instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
     "index.html": "/index.html",
     "static/media/icons8-facebook.svg": "/static/media/icons8-facebook.ec446621c24e4a91a4a320c46c565c5c.svg",
     "main.9f2b852d.css.map": "/static/css/main.9f2b852d.css.map",
-    "main.dc98b96b.js.map": "/static/js/main.dc98b96b.js.map",
+    "main.b9905aba.js.map": "/static/js/main.b9905aba.js.map",
     "592.648414bd.chunk.js.map": "/static/js/592.648414bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f2b852d.css",
-    "static/js/main.dc98b96b.js"
+    "static/js/main.b9905aba.js"
   ]
 }

@@ -4,6 +4,7 @@ import whatsappLogo from '../../images/icons8-whatsapp (1).svg'
 // import tiktokLogo from '../../images/icons8-tiktok (1).svg'
 import facebookLogo from '../../images/icons8-facebook.svg'
 import instagramLogo from '../../images/icons8-instagram.svg'
+import YumiStackIcon from '../../images/yumistackicon.png'
 import { Enlace } from "../../components/Enlace";
 import '../../App.css'
 
@@ -13,11 +14,12 @@ const Contact = () => {
     <div className="container">
       {/* {setLinksVisible(false)} */}
       <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
-        <h1 style={{fontFamily:'monospace'}} >✨🍔YumiStack Burgers🍔✨</h1>
+        <h1 style={{fontFamily:'monospace', fontSize:'1rem'}} >✨🍔YumiStack Burgers🍔✨</h1>
         <ul>
           <Enlace url="https://wa.link/sxqgfe" texto="WhatsApp" imagenUrl={whatsappLogo} />
           <Enlace url="https://www.facebook.com/profile.php?id=61556325471678" texto="Facebook" imagenUrl={facebookLogo} />
           <Enlace url="https://www.instagram.com/yumi_stack/" texto="Instagram" imagenUrl={instagramLogo} />
+          <Enlace url="https://drive.google.com/drive/folders/14CdkYNFdCkz5uWHgZV3auF06KGgkadl-?usp=drive_link" texto="Menu" imagenUrl={YumiStackIcon} />
           {/* <Enlace url="https://www.pinterest.com.mx" texto="Busca diseños aqui" imagenUrl={pinterestLogo} /> */}
 
           {/* <Enlace url="https://www.instagram.com/adolfocbg/" texto="Instagram" imagenUrl={instagramLogo} /> */}
